@@ -1,0 +1,114 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+  font-family: "Spartan";
+}
+.sub-sec{
+  margin: 10% 20%;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+}
+.star-one,.star-two,.star-three{
+  display: flex;
+  border: 1px solid hsl(303deg 10% 53% / 16%);
+  background-color:hsl(303deg 10% 53% / 16%);
+  margin-top: 5%;
+  align-items: center;
+  padding: 4% 4%;
+  border-radius: 8px;
+}
+.star-wrap {
+  margin-left: -38%;
+}
+.star-two{
+  margin-left: 5%;
+}
+.star-three{
+  margin-left: 10%; 
+}
+.head{
+  color: hsl(300, 43%, 22%); ;
+  font-size:34px;
+  font-weight:  700;
+}
+.sub-con{
+  padding: 0% 20%;
+}
+.paragraph1 {
+  color: hsl(303, 10%, 53%);
+  font-size: 11px;
+  margin-top: 2%;
+}
+
+.star{
+  width: 10px;
+  height: 10px;
+  margin: 0% 1%;
+}
+.star-p{
+  white-space: nowrap;
+  color: hsl(300, 43%, 22%); ;
+  font-size:14px;
+  font-weight:  700;
+  margin: 0% 5%;
+
+}
+.sub-container{
+  display: flex;
+  flex-direction: column;
+}
+
+.container2{
+  display: flex; 
+  margin-top: 5%;
+  justify-content: center;
+}
+.box1,.box2,.box3{
+  background-color: hsl(300, 43%, 22%);
+  margin: 0% 1%;
+  border: 1px solid hsl(300, 43%, 22%);
+  border-radius: 8px;
+}
+.text{
+  color: hsl(300, 24%, 96%);
+  font-size: 10px;
+  margin-top: 5%;
+}
+
+  /* .purple{
+  display: flex;
+  color: hsl(300, 43%, 22%);
+
+} */
+.img{
+display: flex;
+}
+.colt,.iren,.anne{
+  border-radius: 54px;
+  height: 50px;
+  width: 50px;
+}
+.sub-box{
+  margin: 6% 7%;
+}
+.smit{
+  color: #fff;
+  font-size: 14px;
+  margin-left: 8%;
+  margin-top: 10%;
+  white-space: nowrap;
+}
+.veri{
+  margin-left: 8%;
+  margin-top: 2%;
+  white-space: nowrap;
+  color:hsl(333, 80%, 67%);
+  font-size: 12px;
+}
+
+
+
+
