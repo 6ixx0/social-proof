@@ -1,0 +1,16 @@
+$content: 5vw;
+:root {
+  font: {
+    size: 15px;
+    weight: 300;
+    family: "Spartan";
+  }
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  color: #000;
+  padding-left: $content;
+}
